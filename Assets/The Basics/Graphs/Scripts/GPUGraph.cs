@@ -28,8 +28,8 @@ public class GPUGraph : MonoBehaviour
     //static readonly int 
     //    positionsId = Shader.PropertyToID("_Positions"),
     //    resolutionId = Shader.PropertyToID("_Resolution"),
-	//	  stepId = Shader.PropertyToID("_Step"),
-	//	  timeId = Shader.PropertyToID("_Time"),
+    //	  stepId = Shader.PropertyToID("_Step"),
+    //	  timeId = Shader.PropertyToID("_Time"),
     //    transitionProgressId = Shader.PropertyToID("_TransitionProgress");
 
     float duration;
